@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="VAIBHAV\SQLEXPRESS:VAIBHAV\vaibhav">
+          <Created>2025-01-07T21:00:46.9022253+05:30</Created>
+          <Type>SQL</Type>
+          <Server>VAIBHAV\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="alter_employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>alter_employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dml_department.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>dml_department.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dml_employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>dml_employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="employee_manager_view.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>employee_manager_view.sql</FullPath>
+        </FileNode>
+        <FileNode Name="error_handling.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>error_handling.sql</FullPath>
+        </FileNode>
+        <FileNode Name="jobtitle_salary_view.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>jobtitle_salary_view.sql</FullPath>
+        </FileNode>
+        <FileNode Name="proc_department_budget.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>proc_department_budget.sql</FullPath>
+        </FileNode>
+        <FileNode Name="proc_salary_of_employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>proc_salary_of_employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tbl_department.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tbl_department.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tbl_employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tbl_employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="trigger_insert_employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>trigger_insert_employee.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
