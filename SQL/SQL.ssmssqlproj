@@ -52,6 +52,12 @@
           <AssociatedConnUserName />
           <FullPath>error_handling.sql</FullPath>
         </FileNode>
+        <FileNode Name="grouping_sets.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>grouping_sets.sql</FullPath>
+        </FileNode>
         <FileNode Name="jobtitle_salary_view.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
@@ -76,6 +82,12 @@
           <AssociatedConnUserName />
           <FullPath>queries.sql</FullPath>
         </FileNode>
+        <FileNode Name="ranking_sets.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ranking_sets.sql</FullPath>
+        </FileNode>
         <FileNode Name="tbl_department.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
@@ -93,6 +105,18 @@
           <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>trigger_insert_employee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="udf_get_dept_avg_salary.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>udf_get_dept_avg_salary.sql</FullPath>
+        </FileNode>
+        <FileNode Name="udf_get_employee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:VAIBHAV\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>VAIBHAV\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>udf_get_employee.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
